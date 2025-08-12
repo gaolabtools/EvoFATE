@@ -1,9 +1,16 @@
 Copyright 2025 Gao & He et al.
 
-If any person wishes to use, reproduce, prepare derivative works of, display, distribute, or sublicense EvoFATE (the Software as defined below) for a commercial purpose, that person should contact Dr. Ruli Gao at ruli.gao@northwestern.edu. Except for the limited license set forth below, all rights associated with the Software are reserved by Gao & Shiau et al.. 
+If any person wishes to use, reproduce, prepare derivative works of, display, distribute, or sublicense EvoFATE (the Software as defined below) 
+for a commercial purpose, that person should contact Dr. Ruli Gao at ruli.gao@northwestern.edu. Except for the limited license set forth below, 
+all rights associated with the Software are reserved by Gao & He et al.. 
 
-Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the “Software”) to use, reproduce, prepare derivative works of, display, distribute, and sublicense the Software solely for non-commercial research or educational purposes, and to permit persons to whom the Software is furnished to do the same, subject to the following conditions:
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the “Software”) to use, reproduce, 
+prepare derivative works of, display, distribute, and sublicense the Software solely for non-commercial research or educational purposes, and to 
+permit persons to whom the Software is furnished to do the same, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of scNanoGPS.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of EvoFATE.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
