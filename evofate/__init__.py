@@ -6,7 +6,7 @@ from importlib import import_module
 from typing import Any
 
 __version__ = "0.1.0"
-__author__ = "EvoFATE Team"
+__author__ = "Yueying He"
 
 _LAZY_IMPORTS = {
     "tl": ("evofate.tl", None),
